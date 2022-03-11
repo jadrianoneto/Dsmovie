@@ -197,10 +197,10 @@ border: 1px solid var(--text-light-gray);
 
 .dsmovie-pagination-box button:disabled img {
     filter: unset;
-    
-}
 
 }
+
+
 .dsmovie-flip-horizontal {
     transform: rotate(180deg);
 }
